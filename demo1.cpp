@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    int a = 10;
-    char ch = 'A';
+    
     wchar_t myStr[] = L"Hello World!";
     
     wcout << myStr << endl;
